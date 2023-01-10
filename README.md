@@ -36,7 +36,7 @@ O principal objetivo do projeto é colocar em prática os conhecimentos em HTM, 
 <br>
 
 # Como Testar
-Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://eduaraponte-frontendstore.netlify.app)
+Você pode acessar o projeto [![Netlify Status](https://api.netlify.com/api/v1/badges/e417a718-c0c7-45e3-97a9-a7b79149be7f/deploy-status)](https://eduaraponte-frontendstore.netlify.app) ou [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white&style="border-radius:65px;)](https://eduaraponte.github.io/EduarAponte-FrontEndStore/)
 
 Ou rodar na sua maquina.
 ```
